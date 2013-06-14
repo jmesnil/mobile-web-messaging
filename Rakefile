@@ -11,8 +11,6 @@ task :default => :build
 desc "Build the doc"
 task :build do
   Dir.mkdir 'output' unless File.directory? 'output'
-  Dir.glob('*.asciidoc').select do |fn| 
-    Asciidoctor.render_file fn, :to_dir => 'output'
-  end
+  system "bundle exec asciidoctor --safe-mode unsafe -a copycss -a toc -D output Book.asciidoc"
 end
 

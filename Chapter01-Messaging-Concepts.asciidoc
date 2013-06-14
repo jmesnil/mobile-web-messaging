@@ -1,0 +1,43 @@
+== Messaging Concepts
+
+TODO
+
+=== The Advantages of Messaging
+
+TODO
+
+=== Messaging Models
+
+TODO
+
+==== Publish/Subscribe
+
+TODO
+
+==== Point-to-Point
+
+TODO
+
+=== Guaranteed delivery
+
+TODO
+
+=== Loosely-coupled integration
+
+TODO
+
+=== Message concept
+
+TODO
+
+==== Destination
+
+TODO
+
+==== Headers
+
+TODO
+
+==== Payload
+
+TODO
