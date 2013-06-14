@@ -1,0 +1,40 @@
+== Working Outline
+
+== Mobile and Web Messaging
+
+. Messaging Basics
+.. The Advantages of Messaging
+.. Messaging Models
+... Publish/Subscribe
+... Point to Point
+.. Guaranteed delivery
+.. Loosely-coupled integration
+.. Message concept
+... Destination
+... Headers
+... Payload
+. Develop a simple application
+.. The Chat application
+. STOMP
+.. STOMP features
+.. Anatomy of a STOMP frame
+.. Example of using STOMP from iOS
+... The Chat iOS app
+. MQTT
+.. MQTT features
+.. Anatomy of a MQTT frame
+.. Example of using MQTT from Android
+... The Chat Android app
+. Web Sockets
+.. WebSocket protocol
+.. WebSocket JavaScript API
+.. STOMP Over WebSocket
+.. Example of using STOMP from a Web browser
+... The Chat web app
+. Appendix
+.. Installing and Configuring ActiveMQ
+... STOMP configuration
+... MQTT configuration
+.. STOMP 1.2 Specification
+.. MQTT Specification
+. Colophon
