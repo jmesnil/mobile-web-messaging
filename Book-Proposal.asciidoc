@@ -1,0 +1,36 @@
+== Proposal for O’Reilly Media:
+
+== Mobile and Web Messaging =
+
+=== Author
+Jeff Mesnil | +jmesnil@gmail.com+
+
+=== Editors
+Meghan Blanchette
+
+=== Preamble
+
+Cloud *computing
+Internet of Things
+Mobile devices
+
+=== Motivation
+
+There are sparce documentation describing the messaging protocols used in mobile and Web environments.
+
+* when does using messaging make sense?
+* how to connect a mobile device to a messaging broker
+* which messaging protocol are better suited for each use cases?
+* interoperability
+* how to test this?
+
+=== Why Me?
+
+Experts in messaging system
+Increasing use of messaging technology
+no good books covering its use in mobile and Web environments.
+
+=== Market
+
+The target demographic will primarily be mobile and Web audiences, though the text will also be applicable to backend developers.
+The protocols and technology described in the text applies to a variety of platforms and languages.
