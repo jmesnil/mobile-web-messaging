@@ -6,10 +6,12 @@
 .. The Advantages of Messaging
 .. Messaging Models
 ... Publish/Subscribe
-... Point to Point
-.. Guaranteed delivery
-.. Loosely-coupled integration
-.. Message concept
+.... Topics
+... Point-to-Point
+.... Queues
+.. Quality of Service
+.. Message persistence
+.. Message
 ... Destination
 ... Headers
 ... Payload
@@ -17,24 +19,33 @@
 .. The Chat application
 . STOMP
 .. STOMP features
+... Connection
+.... Protocol Negotiation
+.... Heart-beat
+... Send a Message
+... Subscribe
+... Message Acknowledgement
+... Transaction
 .. Anatomy of a STOMP frame
-.. Example of using STOMP from iOS
-... The Chat iOS app
+. Example of using STOMP from iOS
+.. The Chat iOS app
 . MQTT
 .. MQTT features
 .. Anatomy of a MQTT frame
-.. Example of using MQTT from Android
-... The Chat Android app
-. Web Sockets
-.. WebSocket protocol
+. Example of using MQTT from Android
+.. The Chat Android app
+. HTML5 Web Sockets
+.. WebSocket Protocol
 .. WebSocket JavaScript API
-.. STOMP Over WebSocket
-.. Example of using STOMP from a Web browser
-... The Chat web app
+. STOMP Over WebSocket
+. Example of using STOMP from a Web browser
+.. The Chat web app
 . Appendix
-.. Installing and Configuring ActiveMQ
+.. ActiveMQ
+... Download and Installation
 ... STOMP configuration
 ... MQTT configuration
+... Web Sockets configuration
 .. STOMP 1.2 Specification
-.. MQTT Specification
+.. MQTT 3.1 Specification
 . Colophon
