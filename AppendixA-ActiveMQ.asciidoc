@@ -1,4 +1,4 @@
-== Install and Configure Apache ActiveMQ
+== Appendix: Apache ActiveMQ Configuration
 
 TODO
 
