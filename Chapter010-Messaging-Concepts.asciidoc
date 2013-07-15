@@ -1,6 +1,8 @@
 == Messaging Concepts
 
-What does messaging? how does it compare to request/reply protocols such as HTTP?
+[role="lead"]
+In this chapter, we describe what a messaging protocol means, how it compares to 
+request/reply protocols such as HTTP.
 
 === The Advantages of Messaging
 

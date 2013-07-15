@@ -1,6 +1,8 @@
 == STOMP Example
 
-TODO
+[role="lead"]
+In this chapter, we develop a mobile app on iOS that will send the GPS data of 
+the device and displays orders.
 
 === Truck Tracker iOS app
 

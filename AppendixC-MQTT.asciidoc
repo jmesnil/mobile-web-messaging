@@ -1,3 +1,4 @@
 == Appendix: MQTT specification
 
-TODO
+[role="lead"]
+In this appendix, we provide a copy of the MQTT 3.1 protocol specification.

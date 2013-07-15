@@ -1,3 +1,7 @@
+= Mobile and Web Messaging
+Jeff Mesnil <jmesnil@gmail.com>
+v0.0.1
+:keywords: Messaging, mobile computing, Web computing, ''Internet of things''
 
 include::Chapter000-Prelude.asciidoc[]
 
