@@ -1,4 +1,4 @@
-== Proposal for O’Reilly Media:
+== Proposal for O’Reilly Media
 
 == Mobile and Web Messaging
 
@@ -7,7 +7,7 @@ Jeff Mesnil | +jmesnil@gmail.com+ | http://jmesnil.net/
 
 === Preamble
 
-The use of mobile devices is increasing and widening. Not only smartphones and tables are connected to internet but also automation devices, car systems, etc.
+The use of mobile devices is increasing and widening. Not only smartphones and tablets are connected to internet but also automation devices, car systems, etc.
 Even though these devices are increasingly powerful, they still have some constraints unknown from desktop devices, they have limited battery life and intermittent network availability.
 They require efficient protocols to communicate with other devices and servers in a reliable efficient way.
 
@@ -22,9 +22,9 @@ Applications are increasingly running inside a Web browsers or using Web technol
 === Motivation
 
 The messaging concepts are well known in the enterprise software domain but they are only starting to spread out to other software domains, including mobile and Web computing.
-Software developers for this domain needs a good documentation to leverage these messaging technologies, using them when they make sense while avoiding their pitfalls.
+Software developers for this domain needs good documentation to leverage these messaging technologies, using them when they make sense while avoiding their pitfalls.
 
-* Why does it mean to use messaging to communicate between devices?
+* What does it mean to use messaging to communicate between devices?
 * When does using messaging make sense for mobile and Web computing?
 * Which messaging protocols are better suited for each use cases?
 * How do we connect heterogeneous devices to function seamlessly?
